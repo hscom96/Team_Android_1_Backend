@@ -1,4 +1,4 @@
-:heavy_exclamation_mark: [Google PlayStore Download 👈](https://play.google.com/store/apps/details?id=com.eroom.erooja)
+:heavy_exclamation_mark: [**Google PlayStore Download** 👈](https://play.google.com/store/apps/details?id=com.eroom.erooja)
 </br>
 :heavy_exclamation_mark: [Client Repository 👈](https://apps.apple.com/kr/app/%EA%B3%B3%EA%B0%90/id1513562174)
 ### :hourglass: Dev Preiod : 2020.02 ~ 06
