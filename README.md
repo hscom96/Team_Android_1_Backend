@@ -1,5 +1,7 @@
 :heavy_exclamation_mark: [**Google PlayStore Download** 👈](https://play.google.com/store/apps/details?id=com.eroom.erooja)
 </br>
+<a href="https://play.google.com/store/apps/details?id=com.eroom.erooja"><img src="https://user-images.githubusercontent.com/46397442/92994235-98910700-f533-11ea-8bed-7516e761b724.png" width="16%"/>   </a>
+</br>
 :heavy_exclamation_mark: [Client Repository 👈](https://github.com/YAPP-16th/Team_Android_1_Client)
 ### :hourglass: Dev Preiod : 2020.02 ~ 06
 </br>
